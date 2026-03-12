@@ -1,0 +1,6 @@
+n = int(input())
+keys = input().split()
+values = input().split()
+d = dict(zip(keys, values))
+q = input().strip()
+print(d.get(q, "Not found"))
