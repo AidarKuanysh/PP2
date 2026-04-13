@@ -3,8 +3,8 @@ import pygame
 class MusicPlayer:
     def __init__(self):
         self.tracks = [
-            "music/track1.wav",
-            "music/track2.wav"
+            "C:/Users/Roar/Documents/GitHub/PP2/Practice9/music_player/music/track1.wav",
+            "C:/Users/Roar/Documents/GitHub/PP2/Practice9/music_player/music/track2.wav"
         ]
         self.index = 0
 
