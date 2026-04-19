@@ -27,4 +27,4 @@ class Ball:
                 self.y += self.speed
 
     def draw(self, screen):
-        pygame.draw.circle(screen, (255, 0, 0), (self.x, self.y), self.radius)
+        pygame.draw.circle(screen, (0, 255, 0), (self.x, self.y), self.radius)
