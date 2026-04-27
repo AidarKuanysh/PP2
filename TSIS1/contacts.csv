@@ -1,0 +1,8 @@
+name,surname,email,birthday,group_name,phone,phone_type
+John,Smith,john.smith@gmail.com,1990-05-15,Work,+1234567890,mobile
+Emma,Johnson,emma.j@yahoo.com,1992-08-22,Family,+1122334455,mobile
+Michael,Brown,mbrown@company.com,1988-12-03,Work,+1555666777,work
+Sophia,Williams,sophia.w@gmail.com,1995-03-14,Friend,+1444333222,mobile
+James,Davis,jdavis@outlook.com,1987-07-19,Work,+1333999888,work
+Olivia,Wilson,olivia.wilson@gmail.com,1993-11-30,Family,+1222111334,home
+Liam,Martinez,liam.m@yahoo.com,1991-04-25,Friend,+1111000222,mobile
